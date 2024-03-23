@@ -1,0 +1,14 @@
+# node modules folder
+node_modules
+
+# ignore build folder
+dist
+build
+
+# secrets
+.env
+.env.*.local
+
+# misc
+tmp/
+

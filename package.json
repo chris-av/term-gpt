@@ -1,0 +1,16 @@
+{
+  "name": "term-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc --watch --pretty",
+    "start": "node --env-file=.env ./dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  }
+}
